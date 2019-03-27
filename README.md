@@ -1,8 +1,18 @@
-## Welcome to my Phaser and PixiJS learning page
+# Phaser and PixiJS learning page
 
-You can use the [editor on GitHub](https://github.com/colettelev/pixijs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/colettelev/pixijs/edit/master/README.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is to show what I have learned with Phaser 3 and Pixi.js
+
+## Phaser 3
+
+I took some concepts of Phaser and created a tiny game.
+
+Concepts learned:
+- how to add a sprite to a page
+- sprite positioning (placed platforms)
+- physics: movement, bounce, jumping, gravity
+- adding spritesheet for character running
 
 ### Markdown
 
