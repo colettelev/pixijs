@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Phaser and PixiJS learning page
 
 You can use the [editor on GitHub](https://github.com/colettelev/pixijs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
